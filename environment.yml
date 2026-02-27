@@ -3,7 +3,6 @@ channels:
   - bioconda
 
 dependencies:
-  - nano
   - trimmomatic
   - fastqc
   - bwa
