@@ -3,13 +3,12 @@ channels:
   - bioconda
 
 dependencies:
-  - nano
   - trimmomatic
   - fastqc
   - bwa
   - samtools
   - bcftools
-  - gatk
+  - gatk4
   - mosdepth
   - openjdk
   - bedtools
