@@ -46,3 +46,5 @@ number	fruit	random	fruitflies
 45	pear	17	FF 17
 46	apple	85	no_FF 0
 47	apple	185	no_FF 0
+48	orange	89	FF 3
+49	apple	101	no_FF 0
